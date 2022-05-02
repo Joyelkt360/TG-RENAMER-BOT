@@ -1,9 +1,12 @@
 from sample_config import Config
 
 class Translation(object):
-    START_TEXT = """Hello <i><b>{}</b></i>,
+    START_TEXT = """Hello __{}__,
+   I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail And Custom Caption support! 
 
-This is a Telegram Rename clone of <a href='https://t.me/renamer_Ns_bot'>Renamer NS BOT</a> by {}
+Bot Maintained By: @JJTECHIESGROUP <i><b>{}</b></i>,
+
+
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 
