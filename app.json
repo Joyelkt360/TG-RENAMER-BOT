@@ -8,10 +8,10 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
-  "logo": "https://telegra.ph/file/681227bece69de877e442.jpg",
+  "success_url": "https://github.com/Joyelkt360",
+  "website": "https://github.com/Joyelkt360",
+  "repository": "https://github.com/Joyelkt360/TG-RENAMER-BOT",
+  "logo": "https://te.legra.ph/file/378d5810ebd1b493850ca.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
